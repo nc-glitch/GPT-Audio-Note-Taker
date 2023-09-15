@@ -1,0 +1,9 @@
+Upload/Receive Email -> RUN -> UploadResponse/Email Back
+
+Transferring Data:
+1) Google Drive (requires weird permissions)
+    a) try this first
+2) Email (limited by file size of 25MB)
+    a) Prob won't work well
+3) People upload to my server directly
+
